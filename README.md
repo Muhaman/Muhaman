@@ -4,7 +4,7 @@
 
 I've spent 8+ years building products and have shipped 10+ cross-platform apps to the App Store and Google Play. I build React Native, Next.js and NestJS products whose APIs serve 10K+ daily active users, across social, matrimonial, events, health research and real-time gaming. Today I lead client estimation and an **AI-agent-driven SDLC**, where agents draft specs and write and review code behind human quality gates. I also build LLM-powered systems end to end.
 
-🌐 [Portfolio](https://my-portfolio-three-phi-47.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/muhaman)
+🌐 [Portfolio](https://my-portfolio-three-phi-47.vercel.app/) · 💼 [LinkedIn](www.linkedin.com/in/muhaman-ahmad-15ba25185)
 
 ## 🤖 AI engineering projects
 
